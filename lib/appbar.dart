@@ -14,6 +14,7 @@ class _AppbarState extends State<Appbar> {
       height: 100,
       width: 100,
       color: Colors.amber,
+      child: const Center(child: Text("flutter")),
     );
   }
 }
